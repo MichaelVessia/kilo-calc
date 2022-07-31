@@ -30,7 +30,7 @@ const Footer: Component = () => {
   );
 
   return (
-    <div class="flex justify-center gap-5 m-5">
+    <div class="flex justify-center gap-5">
       <a target="_blank" href="https://github.com/michaelvessia/kilo-calc">
         {GitHub}
       </a>

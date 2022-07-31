@@ -4,7 +4,7 @@ import Calculator from "./components/Calculator";
 
 const App: Component = () => {
   return (
-    <div class="flex flex-col h-screen">
+    <div class="flex flex-col h-screen p-5">
       <div class="flex-grow">
         <Calculator />
       </div>
